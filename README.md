@@ -1,4 +1,5 @@
 # homework
-zuoye11-2是一个音乐可视化的内容，引用了processing自带的minim库，
-zuoye7
+zuoye11-2做了音乐可视化的尝试，引用了processing自带的minim库，线条和颜色根据声音变化；
+zuoye7和zuoye10借鉴了processing里的example，是和鼠标移动位置的交互；
+zuoye9引用了rotate函数，在三维的空间展现图形变化
 
